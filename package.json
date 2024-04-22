@@ -26,5 +26,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Get together in groups and clone down this repository. Your goal for this discussion question is to recreate the app in this demo image:",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "author": "",
+  "license": "ISC"
 }
